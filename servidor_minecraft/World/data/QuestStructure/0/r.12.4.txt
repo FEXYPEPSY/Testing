@@ -1,0 +1,8 @@
+ClayWaterMound,6373,6381,2050,2057
+RLCraft_BasicSpider,6428,6428,2053,2053
+RLCraft_UndergroundRuin1,6425,6434,2047,2056
+StoneLeafMound,6403,6412,2057,2064
+RLCraft_DecentWitch,6335,6335,2097,2097
+RLCraft_UndergroundRuin3,6330,6338,2091,2099
+ShrineSmallFire,6395,6405,2103,2113
+P_WitchDungeon,6395,6412,2087,2121

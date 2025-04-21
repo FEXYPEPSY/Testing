@@ -1,4 +1,0 @@
-StonePlantMound,-2827,-2822,-2106,-2101
-StonePlantBoulder,-2751,-2741,-2053,-2043
-DinosaurSkeleton,-2772,-2726,-2075,-2066
-SmallWoodenCottage,-3026,-3018,-2068,-2057

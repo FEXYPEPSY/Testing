@@ -1,0 +1,14 @@
+StoneBoulder,6366,6375,1971,1980
+RLCraft_BasicSkeleton,6417,6417,1922,1922
+RLCraft_UndergroundRuin1,6414,6423,1919,1928
+StoneLeafMound,6420,6427,1912,1921
+MeteorSite,6302,6332,1981,1996
+StonePlantMound,6432,6437,1933,1938
+StonePlantMound,6232,6237,1984,1989
+StonePlantMound4,6314,6321,2029,2036
+RLCraft_SmallUndergroundSkeleton,6272,6280,2016,2024
+SmallWoodenCottage1,6251,6257,2026,2037
+UndergroundTreeoid,6186,6212,1971,1994
+StonePlantMound4,6184,6191,1992,1999
+StonePlantMound1,6183,6189,1753,1759
+ElvenPond,6140,6169,1869,1899

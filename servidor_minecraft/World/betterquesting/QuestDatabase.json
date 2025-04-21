@@ -10923,6 +10923,25 @@
               },
               "id:8": "xat:elf_ring",
               "Count:3": 1,
+              "tag:10": {
+                "xat:Trinket:10": {
+                  "handler:8": "None",
+                  "mana:5": 0.0,
+                  "variant:3": 0,
+                  "alt.ability:1": 0,
+                  "crafter.name:8": "",
+                  "Counters:10": {},
+                  "slot:3": -1,
+                  "crafter.uuid:8": "",
+                  "exp:3": 0,
+                  "Elements:10": {
+                    "secondary:8": "xat:neutral",
+                    "sub:10": {},
+                    "primary:8": "xat:neutral"
+                  },
+                  "main.ability:1": 0
+                }
+              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -11083,6 +11102,25 @@
               },
               "id:8": "xat:goblin_ring",
               "Count:3": 1,
+              "tag:10": {
+                "xat:Trinket:10": {
+                  "handler:8": "None",
+                  "mana:5": 0.0,
+                  "variant:3": 0,
+                  "alt.ability:1": 0,
+                  "crafter.name:8": "",
+                  "Counters:10": {},
+                  "slot:3": -1,
+                  "crafter.uuid:8": "",
+                  "exp:3": 0,
+                  "Elements:10": {
+                    "secondary:8": "xat:neutral",
+                    "sub:10": {},
+                    "primary:8": "xat:neutral"
+                  },
+                  "main.ability:1": 0
+                }
+              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -12947,6 +12985,25 @@
               },
               "id:8": "xat:dwarf_ring",
               "Count:3": 1,
+              "tag:10": {
+                "xat:Trinket:10": {
+                  "handler:8": "None",
+                  "mana:5": 0.0,
+                  "variant:3": 0,
+                  "alt.ability:1": 0,
+                  "crafter.name:8": "",
+                  "Counters:10": {},
+                  "slot:3": -1,
+                  "crafter.uuid:8": "",
+                  "exp:3": 0,
+                  "Elements:10": {
+                    "secondary:8": "xat:neutral",
+                    "sub:10": {},
+                    "primary:8": "xat:neutral"
+                  },
+                  "main.ability:1": 0
+                }
+              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -13056,6 +13113,25 @@
               },
               "id:8": "xat:titan_ring",
               "Count:3": 1,
+              "tag:10": {
+                "xat:Trinket:10": {
+                  "handler:8": "None",
+                  "mana:5": 0.0,
+                  "variant:3": 0,
+                  "alt.ability:1": 0,
+                  "crafter.name:8": "",
+                  "Counters:10": {},
+                  "slot:3": -1,
+                  "crafter.uuid:8": "",
+                  "exp:3": 0,
+                  "Elements:10": {
+                    "secondary:8": "xat:neutral",
+                    "sub:10": {},
+                    "primary:8": "xat:neutral"
+                  },
+                  "main.ability:1": 0
+                }
+              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -13330,6 +13406,25 @@
               },
               "id:8": "xat:fairy_ring",
               "Count:3": 1,
+              "tag:10": {
+                "xat:Trinket:10": {
+                  "handler:8": "None",
+                  "mana:5": 0.0,
+                  "variant:3": 0,
+                  "alt.ability:1": 0,
+                  "crafter.name:8": "",
+                  "Counters:10": {},
+                  "slot:3": -1,
+                  "crafter.uuid:8": "",
+                  "exp:3": 0,
+                  "Elements:10": {
+                    "secondary:8": "xat:neutral",
+                    "sub:10": {},
+                    "primary:8": "xat:neutral"
+                  },
+                  "main.ability:1": 0
+                }
+              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -13500,6 +13595,25 @@
               },
               "id:8": "xat:faelis_ring",
               "Count:3": 1,
+              "tag:10": {
+                "xat:Trinket:10": {
+                  "handler:8": "None",
+                  "mana:5": 0.0,
+                  "variant:3": 0,
+                  "alt.ability:1": 0,
+                  "crafter.name:8": "",
+                  "Counters:10": {},
+                  "slot:3": -1,
+                  "crafter.uuid:8": "",
+                  "exp:3": 0,
+                  "Elements:10": {
+                    "secondary:8": "xat:neutral",
+                    "sub:10": {},
+                    "primary:8": "xat:neutral"
+                  },
+                  "main.ability:1": 0
+                }
+              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
@@ -14761,6 +14875,25 @@
               },
               "id:8": "xat:dragon_ring",
               "Count:3": 1,
+              "tag:10": {
+                "xat:Trinket:10": {
+                  "handler:8": "None",
+                  "mana:5": 0.0,
+                  "variant:3": 0,
+                  "alt.ability:1": 0,
+                  "crafter.name:8": "",
+                  "Counters:10": {},
+                  "slot:3": -1,
+                  "crafter.uuid:8": "",
+                  "exp:3": 0,
+                  "Elements:10": {
+                    "secondary:8": "xat:neutral",
+                    "sub:10": {},
+                    "primary:8": "xat:neutral"
+                  },
+                  "main.ability:1": 0
+                }
+              },
               "Damage:2": 0,
               "OreDict:8": ""
             }
