@@ -5,3 +5,4 @@ RLCraft_DecentSpider,13,13,77,77
 RLCraft_UndergroundRuin2,8,18,72,79
 RLCraft_DecentWitch,-136,-136,119,119
 RLCraft_UndergroundRuin2,-141,-131,114,121
+RLCraft_SmallUndergroundSkeleton,50,58,41,49

@@ -1,0 +1,6 @@
+ShrineSmallWater,-6453,-6445,3253,3261
+RLCraft_DecentZombie,-6428,-6428,3139,3139
+RLCraft_UndergroundRuin2,-6430,-6423,3134,3144
+ShrineSmallWater,-6570,-6562,3290,3298
+ShrineSmallWater,-6526,-6518,3380,3388
+ShrineSmallWater,-6345,-6337,3081,3089

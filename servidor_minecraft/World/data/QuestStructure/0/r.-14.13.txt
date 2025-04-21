@@ -1,0 +1,3 @@
+RLCraft_DecentCaveSpider,-7204,-7204,7115,7115
+RLCraft_UndergroundRuin3,-7206,-7198,7112,7120
+StonePlantMound4,-7267,-7260,6997,7004

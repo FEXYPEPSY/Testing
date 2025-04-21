@@ -17610,3 +17610,403 @@ java.net.UnknownHostException: phone-missile.gl.at.ply.gg:4149: Name or service 
 [19:30:23] [Server thread/TRACE] [mixin]: Added class metadata for net/minecraft/entity/passive/EntityPig to metadata cache
 [19:30:23] [Server thread/DEBUG] [mixin]: Mixing carryon.PickupHandlerChestMixin from mixins.rlmixins.carryonunlooted.json into tschipp.carryon.common.handler.PickupHandler
 [19:30:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:31:01] [Server thread/DEBUG] [FML]: The world 6102922a (World) may have leaked: seen 55 times.
+
+[19:31:01] [Server thread/DEBUG] [FML]: The world 4501d30c (World) may have leaked: seen 55 times.
+
+[19:31:01] [Server thread/DEBUG] [FML]: The world 34963490 (World) may have leaked: seen 55 times.
+
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_937_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[19:31:16] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[19:31:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:31:51] [Server thread/DEBUG] [FML]: The world 6102922a (World) may have leaked: seen 60 times.
+
+[19:31:51] [Server thread/DEBUG] [FML]: The world 4501d30c (World) may have leaked: seen 60 times.
+
+[19:31:51] [Server thread/DEBUG] [FML]: The world 34963490 (World) may have leaked: seen 60 times.
+
+[19:31:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FEXYPEPSY has made the advancement [Going Clubbing]
+[19:32:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:32:41] [Server thread/DEBUG] [FML]: The world 6102922a (World) may have leaked: seen 65 times.
+
+[19:32:41] [Server thread/DEBUG] [FML]: The world 4501d30c (World) may have leaked: seen 65 times.
+
+[19:32:41] [Server thread/DEBUG] [FML]: The world 34963490 (World) may have leaked: seen 65 times.
+
+[19:32:51] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound1' in StructureBoundingBox{x0=6234, y0=63, z0=2143, x1=6240, y1=67, z1=2149} (0)
+[19:32:51] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound1
+[19:32:51] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageWoodMill' in StructureBoundingBox{x0=6422, y0=65, z0=2151, x1=6438, y1=93, z1=2164} (0)
+[19:32:55] [Server thread/TRACE] [RLTweaker]: RLCraft_SmallUndergroundSkeleton failed to spawn at [6440, 2159] (incompatible biome edge)
+[19:32:59] [Server thread/TRACE] [reccomplex]: Generated structure 'AbandonedWoodTower' in StructureBoundingBox{x0=6163, y0=61, z0=2165, x1=6199, y1=102, z1=2195} (0)
+[19:32:59] [Server thread/TRACE] [RLTweaker]: Structure Generated: AbandonedWoodTower
+[19:32:59] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageGuardTower' in StructureBoundingBox{x0=6399, y0=65, z0=2182, x1=6411, y1=94, z1=2194} (0)
+[19:32:59] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageForgeLarge' in StructureBoundingBox{x0=6438, y0=64, z0=2182, x1=6454, y1=75, z1=2194} (0)
+[19:33:05] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound' in StructureBoundingBox{x0=6240, y0=63, z0=2196, x1=6245, y1=73, z1=2201} (0)
+[19:33:05] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound
+[19:33:05] [Server thread/TRACE] [reccomplex]: Generated structure 'SeasonsGreenhouse' in StructureBoundingBox{x0=6422, y0=66, z0=2194, x1=6434, y1=73, z1=2204} (0)
+[19:33:05] [Server thread/TRACE] [reccomplex]: RLCraft_UndergroundRuin2 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@72075790
+[19:33:05] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin2
+[19:33:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:33:07] [Server thread/TRACE] [reccomplex]: AbandonedWoodTower canceled generation at BlockPos{x=6164, y=65, z=2190} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7a5993c6
+[19:33:07] [Server thread/TRACE] [RLTweaker]: Structure Generated: AbandonedWoodTower
+[19:33:08] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_SmallUndergroundSkeleton' in StructureBoundingBox{x0=6360, y0=24, z0=2209, x1=6368, y1=31, z1=2217} (0)
+[19:33:08] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_SmallUndergroundSkeleton
+[19:33:08] [Server thread/TRACE] [reccomplex]: RLCraft_UndergroundRuin3 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@72075790
+[19:33:08] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin3
+[19:33:08] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageMarketplace' in StructureBoundingBox{x0=6422, y0=66, z0=2209, x1=6436, y1=75, z1=2223} (0)
+[19:33:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FEXYPEPSY was slain by Warg
+[19:33:22] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[19:33:24] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:33:24] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:33:25] [Server thread/TRACE] [RLTweaker]: StoneLeafMound failed to spawn at [-7153, 6998] (incompatible biome edge)
+[19:33:25] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.routine.IAFOldDeathWormRoutine$WrappedProximityTaskOldDeathWorm
+[19:33:26] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[19:33:26] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[19:33:26] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[19:33:26] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[19:33:26] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[19:33:26] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[19:33:26] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[19:33:26] [Server thread/INFO] [RLTweaker]: Clearing broken myrmex queen trades: BlockPos{x=-7144, y=52, z=7064}
+[19:33:26] [Server thread/TRACE] [reccomplex]: StonePlantBoulder canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@72075790
+[19:33:26] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantBoulder
+[19:33:26] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_Vineyard' in StructureBoundingBox{x0=-7082, y0=68, z0=6928, x1=-7062, y1=77, z1=6956} (0)
+[19:33:26] [Server thread/TRACE] [RLTweaker]: StoneLeafMound failed to spawn at [-7063, 6990] (incompatible biome edge)
+[19:33:27] [Server thread/TRACE] [RLTweaker]: RLCraft_SmallUndergroundSkeleton failed to spawn at [-7152, 6925] (incompatible biome edge)
+[19:33:27] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageTriplets' in StructureBoundingBox{x0=-7106, y0=66, z0=6918, x1=-7092, y1=78, z1=6932} (0)
+[19:33:27] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound4' in StructureBoundingBox{x0=-7053, y0=65, z0=6925, x1=-7046, y1=71, z1=6932} (0)
+[19:33:27] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound4
+[19:33:28] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageInn' in StructureBoundingBox{x0=-7052, y0=64, z0=6922, x1=-7025, y1=89, z1=6942} (0)
+[19:33:28] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_DecentCaveSpider' in StructureBoundingBox{x0=-7204, y0=33, z0=7115, x1=-7204, y1=33, z1=7115} (0)
+[19:33:28] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_UndergroundRuin3' in StructureBoundingBox{x0=-7206, y0=30, z0=7112, x1=-7198, y1=37, z1=7120} (0)
+[19:33:28] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin3
+[19:33:28] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[19:33:28] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[19:33:28] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[19:33:28] [Server thread/TRACE] [reccomplex]: Generated structure 'P_VillageFarmhouse' in StructureBoundingBox{x0=-7082, y0=67, z0=6894, x1=-7070, y1=76, z1=6906} (0)
+[19:33:28] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[19:33:28] [Server thread/TRACE] [RLTweaker]: StonePlantMound failed to spawn at [-7253, 7027] (incompatible biome edge)
+[19:33:29] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[19:33:29] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageGuardTower' in StructureBoundingBox{x0=-7052, y0=65, z0=6896, x1=-7040, y1=94, z1=6908} (0)
+[19:33:29] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[19:33:29] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound4' in StructureBoundingBox{x0=-7267, y0=69, z0=6997, x1=-7260, y1=75, z1=7004} (0)
+[19:33:29] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound4
+[19:33:29] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_BasicCaveSpider' in StructureBoundingBox{x0=-6998, y0=11, z0=7011, x1=-6998, y1=11, z1=7011} (0)
+[19:33:29] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_UndergroundRuin1' in StructureBoundingBox{x0=-7001, y0=8, z0=7005, x1=-6992, y1=15, z1=7014} (0)
+[19:33:29] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin1
+[19:33:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2372ms behind, skipping 47 tick(s)
+[19:33:30] [Server thread/TRACE] [reccomplex]: StonePlantMound3 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@72075790
+[19:33:30] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound3
+[19:33:30] [Server thread/TRACE] [reccomplex]: AbandonedWoodTower canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@72075790
+[19:33:30] [Server thread/TRACE] [RLTweaker]: Structure Generated: AbandonedWoodTower
+[19:33:31] [Server thread/TRACE] [reccomplex]: Generated structure 'SmallWoodenCottage2' in StructureBoundingBox{x0=-6994, y0=63, z0=6932, x1=-6986, y1=70, z1=6940} (0)
+[19:33:31] [Server thread/TRACE] [RLTweaker]: Structure Generated: SmallWoodenCottage2
+[19:33:31] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantBoulder' in StructureBoundingBox{x0=-7033, y0=60, z0=6884, x1=-7023, y1=70, z1=6894} (0)
+[19:33:31] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantBoulder
+[19:33:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FEXYPEPSY moved too quickly! 13453.5,2.9215999984741217,-4941.5
+[19:33:32] [Server thread/TRACE] [reccomplex]: StonePlantMound3 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@72075790
+[19:33:32] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound3
+[19:33:32] [Server thread/TRACE] [reccomplex]: StonePlantMound canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@72075790
+[19:33:32] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound
+[19:33:33] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -7288 | 6856 ], underground: false
+[19:33:33] [Server thread/TRACE] [RLTweaker]: BattleTower generation success: -7288 6856
+[19:33:33] [Server thread/DEBUG] [FML]: The world 6102922a (World) may have leaked: seen 70 times.
+
+[19:33:33] [Server thread/DEBUG] [FML]: The world 4501d30c (World) may have leaked: seen 70 times.
+
+[19:33:33] [Server thread/DEBUG] [FML]: The world 34963490 (World) may have leaked: seen 70 times.
+
+[19:33:35] [Server thread/DEBUG] [RLTweaker]: Removed LootingEnchantBonus for deathworm egg: iceandfire:deathworm_tan
+[19:33:35] [Server thread/DEBUG] [RLTweaker]: Removed LootingEnchantBonus for deathworm egg: iceandfire:deathworm_tan
+[19:33:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FEXYPEPSY moved too quickly! 13453.5,3.0,-4941.5
+[19:33:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FEXYPEPSY was slain by Warg
+[19:33:48] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:33:48] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallFire' in StructureBoundingBox{x0=-471, y0=24, z0=-8244, x1=-461, y1=31, z1=-8234} (0)
+[19:33:48] [Server thread/TRACE] [RLTweaker]: Structure Generated: ShrineSmallFire
+[19:33:50] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallWater' in StructureBoundingBox{x0=-508, y0=45, z0=-8288, x1=-500, y1=51, z1=-8280} (0)
+[19:33:50] [Server thread/TRACE] [RLTweaker]: Structure Generated: ShrineSmallWater
+[19:33:51] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -344 | -8280 ], underground: false
+[19:33:51] [Server thread/TRACE] [RLTweaker]: BattleTower generation success: -344 -8280
+[19:33:53] [Server thread/TRACE] [reccomplex]: P_DesertTemple canceled generation at BlockPos{x=-597, y=225, z=-8262} (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@3c1ff39d
+[19:33:53] [Server thread/TRACE] [RLTweaker]: Structure Generated: P_DesertTemple
+[19:33:53] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_UndergroundFarm' in StructureBoundingBox{x0=-318, y0=19, z0=-8290, x1=-276, y1=48, z1=-8247} (0)
+[19:33:53] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundFarm
+[19:33:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:33:55] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2782ms behind, skipping 55 tick(s)
+[19:33:55] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_SmallUndergroundSkeleton' in StructureBoundingBox{x0=50, y0=19, z0=41, x1=58, y1=26, z1=49} (0)
+[19:33:55] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_SmallUndergroundSkeleton
+[19:33:55] [Server thread/TRACE] [reccomplex]: Generated structure 'P_DesertTemple' in StructureBoundingBox{x0=-346, y0=63, z0=-8166, x1=-296, y1=93, z1=-8117} (0)
+[19:33:55] [Server thread/TRACE] [RLTweaker]: Structure Generated: P_DesertTemple
+[19:33:57] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_BasicCaveSpider' in StructureBoundingBox{x0=-337, y0=22, z0=-8375, x1=-337, y1=22, z1=-8375} (0)
+[19:33:57] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_UndergroundRuin1' in StructureBoundingBox{x0=-340, y0=19, z0=-8381, x1=-331, y1=26, z1=-8372} (0)
+[19:33:57] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin1
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairTurn' in StructureBoundingBox{x0=-477, y0=81, z0=-8057, x1=-472, y1=88, z1=-8052} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStorage' in StructureBoundingBox{x0=-471, y0=81, z0=-8054, x1=-466, y1=84, z1=-8049} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-466, y0=82, z0=-8056, x1=-466, y1=83, z1=-8056} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-468, y0=81, z0=-8057, x1=-466, y1=84, z1=-8055} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairTurn' in StructureBoundingBox{x0=-477, y0=81, z0=-8066, x1=-472, y1=88, z1=-8061} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-471, y0=82, z0=-8056, x1=-471, y1=83, z1=-8056} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-471, y0=81, z0=-8057, x1=-469, y1=84, z1=-8055} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-466, y0=82, z0=-8059, x1=-466, y1=83, z1=-8059} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-468, y0=81, z0=-8060, x1=-466, y1=84, z1=-8058} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-473, y0=82, z0=-8067, x1=-473, y1=83, z1=-8067} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-473, y0=82, z0=-8069, x1=-473, y1=83, z1=-8069} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-474, y0=81, z0=-8069, x1=-472, y1=84, z1=-8067} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-469, y0=82, z0=-8068, x1=-469, y1=83, z1=-8068} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-470, y0=82, z0=-8069, x1=-470, y1=83, z1=-8069} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-471, y0=81, z0=-8069, x1=-469, y1=84, z1=-8067} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-479, y0=86, z0=-8064, x1=-479, y1=87, z1=-8064} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-479, y0=86, z0=-8066, x1=-479, y1=87, z1=-8066} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-480, y0=85, z0=-8066, x1=-478, y1=88, z1=-8064} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-466, y0=82, z0=-8062, x1=-466, y1=83, z1=-8062} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-467, y0=82, z0=-8063, x1=-467, y1=83, z1=-8063} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-468, y0=81, z0=-8063, x1=-466, y1=84, z1=-8061} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-479, y0=82, z0=-8069, x1=-479, y1=83, z1=-8069} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-479, y0=82, z0=-8067, x1=-479, y1=83, z1=-8067} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-480, y0=81, z0=-8069, x1=-478, y1=84, z1=-8067} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-470, y0=82, z0=-8061, x1=-470, y1=83, z1=-8061} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-471, y0=81, z0=-8063, x1=-469, y1=84, z1=-8061} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-471, y0=82, z0=-8065, x1=-471, y1=83, z1=-8065} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-471, y0=81, z0=-8066, x1=-469, y1=84, z1=-8064} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-473, y0=82, z0=-8051, x1=-473, y1=83, z1=-8051} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-473, y0=82, z0=-8049, x1=-473, y1=83, z1=-8049} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-474, y0=82, z0=-8050, x1=-474, y1=83, z1=-8050} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-474, y0=81, z0=-8051, x1=-472, y1=84, z1=-8049} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeSpiderTurn' in StructureBoundingBox{x0=-486, y0=81, z0=-8069, x1=-481, y1=84, z1=-8064} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-478, y0=82, z0=-8065, x1=-478, y1=83, z1=-8065} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-479, y0=82, z0=-8066, x1=-479, y1=83, z1=-8066} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-480, y0=81, z0=-8066, x1=-478, y1=84, z1=-8064} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-482, y0=86, z0=-8066, x1=-482, y1=87, z1=-8066} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-482, y0=86, z0=-8064, x1=-482, y1=87, z1=-8064} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-483, y0=86, z0=-8065, x1=-483, y1=87, z1=-8065} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-483, y0=85, z0=-8066, x1=-481, y1=88, z1=-8064} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-484, y0=82, z0=-8062, x1=-484, y1=83, z1=-8062} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-486, y0=82, z0=-8062, x1=-486, y1=83, z1=-8062} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-486, y0=81, z0=-8063, x1=-484, y1=84, z1=-8061} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-467, y0=82, z0=-8064, x1=-467, y1=83, z1=-8064} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-467, y0=82, z0=-8066, x1=-467, y1=83, z1=-8066} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-466, y0=82, z0=-8065, x1=-466, y1=83, z1=-8065} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-468, y0=81, z0=-8066, x1=-466, y1=84, z1=-8064} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-484, y0=82, z0=-8059, x1=-484, y1=83, z1=-8059} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-486, y0=82, z0=-8059, x1=-486, y1=83, z1=-8059} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-486, y0=81, z0=-8060, x1=-484, y1=84, z1=-8058} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-481, y0=82, z0=-8062, x1=-481, y1=83, z1=-8062} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-483, y0=82, z0=-8062, x1=-483, y1=83, z1=-8062} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-483, y0=81, z0=-8063, x1=-481, y1=84, z1=-8061} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-470, y0=82, z0=-8060, x1=-470, y1=83, z1=-8060} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-471, y0=82, z0=-8059, x1=-471, y1=83, z1=-8059} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-471, y0=81, z0=-8060, x1=-469, y1=84, z1=-8058} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeCorridorCollapse' in StructureBoundingBox{x0=-483, y0=81, z0=-8060, x1=-481, y1=88, z1=-8055} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-486, y0=82, z0=-8056, x1=-486, y1=83, z1=-8056} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-484, y0=82, z0=-8056, x1=-484, y1=83, z1=-8056} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-486, y0=81, z0=-8057, x1=-484, y1=84, z1=-8055} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-481, y0=86, z0=-8062, x1=-481, y1=87, z1=-8062} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-483, y0=86, z0=-8062, x1=-483, y1=87, z1=-8062} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-482, y0=86, z0=-8063, x1=-482, y1=87, z1=-8063} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-483, y0=85, z0=-8063, x1=-481, y1=88, z1=-8061} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-480, y0=86, z0=-8056, x1=-480, y1=87, z1=-8056} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-480, y0=85, z0=-8057, x1=-478, y1=88, z1=-8055} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStorage' in StructureBoundingBox{x0=-486, y0=81, z0=-8054, x1=-481, y1=84, z1=-8049} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-479, y0=86, z0=-8052, x1=-479, y1=87, z1=-8052} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-478, y0=86, z0=-8053, x1=-478, y1=87, z1=-8053} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-480, y0=85, z0=-8054, x1=-478, y1=88, z1=-8052} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-483, y0=86, z0=-8053, x1=-483, y1=87, z1=-8053} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-482, y0=86, z0=-8052, x1=-482, y1=87, z1=-8052} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-483, y0=85, z0=-8054, x1=-481, y1=88, z1=-8052} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazeStairCorridor' in StructureBoundingBox{x0=-480, y0=81, z0=-8063, x1=-478, y1=88, z1=-8058} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-479, y0=82, z0=-8049, x1=-479, y1=83, z1=-8049} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-478, y0=82, z0=-8050, x1=-478, y1=83, z1=-8050} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-480, y0=81, z0=-8051, x1=-478, y1=84, z1=-8049} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-478, y0=82, z0=-8053, x1=-478, y1=83, z1=-8053} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'Unknown' in StructureBoundingBox{x0=-479, y0=82, z0=-8054, x1=-479, y1=83, z1=-8054} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'PyramidMazePath' in StructureBoundingBox{x0=-480, y0=81, z0=-8054, x1=-478, y1=84, z1=-8052} (0)
+[19:33:59] [Server thread/TRACE] [reccomplex]: Generated structure 'SmallPyramid' in StructureBoundingBox{x0=-492, y0=80, z0=-8079, x1=-460, y1=97, z1=-8043} (0)
+[19:33:59] [Server thread/TRACE] [RLTweaker]: Structure Generated: SmallPyramid
+[19:34:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FEXYPEPSY moved too quickly! 6749.109704032651,9.737995353034314,10309.732350895234
+[19:34:22] [Server thread/DEBUG] [FML]: The world 6102922a (World) may have leaked: seen 75 times.
+
+[19:34:22] [Server thread/DEBUG] [FML]: The world 4501d30c (World) may have leaked: seen 75 times.
+
+[19:34:22] [Server thread/DEBUG] [FML]: The world 34963490 (World) may have leaked: seen 75 times.
+
+[19:34:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FEXYPEPSY was slain by Zombie
+[19:34:31] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:34:33] [Server thread/TRACE] [reccomplex]: Generated structure 'SmallAbandonedMine' in StructureBoundingBox{x0=6607, y0=65, z0=-2545, x1=6622, y1=78, z1=-2520} (0)
+[19:34:33] [Server thread/TRACE] [RLTweaker]: Structure Generated: SmallAbandonedMine
+[19:34:36] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2509ms behind, skipping 50 tick(s)
+[19:34:37] [Server thread/TRACE] [reccomplex]: RLCraft_UndergroundRuin1 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@72075790
+[19:34:37] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin1
+[19:34:37] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_SmallUndergroundSkeleton' in StructureBoundingBox{x0=6632, y0=24, z0=-2480, x1=6640, y1=31, z1=-2472} (0)
+[19:34:37] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_SmallUndergroundSkeleton
+[19:34:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:34:43] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 408 and chunkZ -153...
+[19:34:43] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_jungle_builtin_custom_loot at {"x": 6466, "y": 0, "z": -2745}...
+[19:34:44] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_jungle_builtin_custom_loot at {"x": 6466, "y": 0, "z": -2745}.
+[19:34:46] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneIceBoulder' in StructureBoundingBox{x0=6464, y0=84, z0=-2434, x1=6473, y1=97, z1=-2424} (0)
+[19:34:46] [Server thread/TRACE] [RLTweaker]: Structure Generated: StoneIceBoulder
+[19:34:46] [Server thread/TRACE] [reccomplex]: Generated structure 'UndergroundTreeoid' in StructureBoundingBox{x0=6601, y0=16, z0=-2777, x1=6624, y1=40, z1=-2751} (0)
+[19:34:46] [Server thread/TRACE] [RLTweaker]: Structure Generated: UndergroundTreeoid
+[19:34:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FEXYPEPSY was pummeled by Spriggan
+[19:34:55] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:34:59] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:34:59] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:35:00] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallWater' in StructureBoundingBox{x0=-6453, y0=31, z0=3253, x1=-6445, y1=37, z1=3261} (0)
+[19:35:00] [Server thread/TRACE] [RLTweaker]: Structure Generated: ShrineSmallWater
+[19:35:01] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -408 and chunkZ 204...
+[19:35:01] [Server thread/TRACE] [RLTweaker]: RLCraft_UndergroundRuin1 failed to spawn at [-6411, 3309] (incompatible biome edge)
+[19:35:02] [Server thread/TRACE] [RLTweaker]: StonePlantMound2 failed to spawn at [-6381, 3186] (incompatible biome edge)
+[19:35:02] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_DecentZombie' in StructureBoundingBox{x0=-6428, y0=15, z0=3139, x1=-6428, y1=15, z1=3139} (0)
+[19:35:02] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_UndergroundRuin2' in StructureBoundingBox{x0=-6430, y0=12, z0=3134, x1=-6423, y1=19, z1=3144} (0)
+[19:35:02] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin2
+[19:35:03] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallWater' in StructureBoundingBox{x0=-6570, y0=33, z0=3290, x1=-6562, y1=39, z1=3298} (0)
+[19:35:03] [Server thread/TRACE] [RLTweaker]: Structure Generated: ShrineSmallWater
+[19:35:03] [Server thread/TRACE] [RLTweaker]: StonePlantMound failed to spawn at [-6491, 3365] (incompatible biome edge)
+[19:35:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2100ms behind, skipping 42 tick(s)
+[19:35:05] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallWater' in StructureBoundingBox{x0=-6526, y0=28, z0=3380, x1=-6518, y1=34, z1=3388} (0)
+[19:35:05] [Server thread/TRACE] [RLTweaker]: Structure Generated: ShrineSmallWater
+[19:35:06] [Server thread/TRACE] [reccomplex]: RLCraft_UndergroundRuin3 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@72075790
+[19:35:06] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin3
+[19:35:06] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallWater' in StructureBoundingBox{x0=-6345, y0=35, z0=3081, x1=-6337, y1=41, z1=3089} (0)
+[19:35:06] [Server thread/TRACE] [RLTweaker]: Structure Generated: ShrineSmallWater
+[19:35:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FEXYPEPSY moved too quickly! 12783.521225174889,40.0,-1166.44098059088
+[19:35:13] [Server thread/DEBUG] [FML]: The world 6102922a (World) may have leaked: seen 80 times.
+
+[19:35:13] [Server thread/DEBUG] [FML]: The world 4501d30c (World) may have leaked: seen 80 times.
+
+[19:35:13] [Server thread/DEBUG] [FML]: The world 34963490 (World) may have leaked: seen 80 times.
+
+[19:35:16] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Warg is 0.001
+[19:35:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FEXYPEPSY was slain by Warg
+[19:35:17] [Server thread/INFO] [simpletomb]: Format error: Tomb created at: %s
+[19:35:18] [Netty Epoll Server IO #4/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:35:20] [Server thread/TRACE] [reccomplex]: StonePlantBoulder canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@72075790
+[19:35:20] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantBoulder
+[19:35:20] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallFire' in StructureBoundingBox{x0=3919, y0=24, z0=4700, x1=3929, y1=31, z1=4710} (0)
+[19:35:20] [Server thread/TRACE] [RLTweaker]: Structure Generated: ShrineSmallFire
+[19:35:21] [Server thread/TRACE] [reccomplex]: StonePlantMound2 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@72075790
+[19:35:21] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound2
+[19:35:21] [Server thread/TRACE] [reccomplex]: RLCraft_UndergroundRuin1 canceled generation at null (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@72075790
+[19:35:21] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_UndergroundRuin1
+[19:35:22] [Server thread/TRACE] [reccomplex]: Generated structure 'RLCraft_SmallUndergroundSkeleton' in StructureBoundingBox{x0=3952, y0=20, z0=4735, x1=3960, y1=27, z1=4743} (0)
+[19:35:22] [Server thread/TRACE] [RLTweaker]: Structure Generated: RLCraft_SmallUndergroundSkeleton
+[19:35:23] [Server thread/TRACE] [reccomplex]: Generated structure 'WoodWallRemains' in StructureBoundingBox{x0=3940, y0=61, z0=4771, x1=3968, y1=69, z1=4779} (0)
+[19:35:23] [Server thread/TRACE] [RLTweaker]: Structure Generated: WoodWallRemains
+[19:35:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound4' in StructureBoundingBox{x0=3921, y0=63, z0=4556, x1=3928, y1=69, z1=4563} (0)
+[19:35:24] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound4
+[19:35:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound' in StructureBoundingBox{x0=3877, y0=66, z0=4540, x1=3882, y1=76, z1=4545} (0)
+[19:35:24] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound
+[19:35:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:35:27] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3152ms behind, skipping 63 tick(s)
+[19:35:27] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound1' in StructureBoundingBox{x0=3729, y0=62, z0=4569, x1=3735, y1=66, z1=4575} (0)
+[19:35:27] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound1
+[19:35:28] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound1' in StructureBoundingBox{x0=4016, y0=62, z0=4563, x1=4022, y1=66, z1=4569} (0)
+[19:35:28] [Server thread/TRACE] [RLTweaker]: Structure Generated: StonePlantMound1
+[19:35:48] [Server thread/TRACE] [reccomplex]: Generated structure 'ClayWaterMound' in StructureBoundingBox{x0=4028, y0=61, z0=4757, x1=4036, y1=63, z1=4764} (0)
+[19:35:48] [Server thread/TRACE] [RLTweaker]: Structure Generated: ClayWaterMound
+[19:35:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FEXYPEPSY lost connection: Disconnected
+[19:35:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FEXYPEPSY left the game
+[19:35:48] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of FEXYPEPSY
+[19:35:48] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client FEXYPEPSY
+[19:35:48] [Server thread/TRACE] [RLTweaker]: Removing NetworkHandler UUID
+[19:36:04] [Server thread/DEBUG] [FML]: The world 6102922a (World) may have leaked: seen 85 times.
+
+[19:36:04] [Server thread/DEBUG] [FML]: The world 4501d30c (World) may have leaked: seen 85 times.
+
+[19:36:04] [Server thread/DEBUG] [FML]: The world 34963490 (World) may have leaked: seen 85 times.
+
+[19:36:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:36:54] [Server thread/DEBUG] [FML]: The world 6102922a (World) may have leaked: seen 90 times.
+
+[19:36:54] [Server thread/DEBUG] [FML]: The world 4501d30c (World) may have leaked: seen 90 times.
+
+[19:36:54] [Server thread/DEBUG] [FML]: The world 34963490 (World) may have leaked: seen 90 times.
+
+[19:36:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:36:54] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:36:54] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:36:54] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:36:54] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:36:54] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[19:36:55] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:189 mods->FMLHandshakeServerState$2:HELLO
+[19:36:55] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 189 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,texfix@4.0,nmsot@1.2.2-mc1.12.2,mcwbridges@1.0.6,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,unilib@1.0.5,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,chunkpregenerator@4.4.9,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,simpletomb@1.12.2-1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,voicechat@1.12.2-2.5.30,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,vanillafix@1.0.10-150,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,performant@1.12.2-1.5,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,mobends@1.2.1,base@3.14.0,carbonconfig@1.2.1,xpbook@v1.1.6
+[19:36:55] [Netty Epoll Server IO #3/TRACE] [RLTweaker]: Client Version: 0.5.12
+[19:36:55] [Netty Epoll Server IO #3/TRACE] [RLTweaker]: Local Version: 0.5.12
+[19:36:55] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[19:36:55] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:36:55] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[19:36:57] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:36:57] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[19:36:57] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:36:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:36:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: FEXYPEPSY[/127.135.230.85:60239] logged in with entity id 30389 at (3872.4540861228684, 79.0, 4695.321467868515)
+[19:36:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FEXYPEPSY joined the game
+[19:36:57] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:36:57] [Server thread/DEBUG] [firstaid]: Sending damage model to FEXYPEPSY
+[19:36:57] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player FEXYPEPSY
+[19:36:57] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: FEXYPEPSY
+[19:36:57] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: FEXYPEPSY
+[19:36:57] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player FEXYPEPSY
+[19:36:57] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player FEXYPEPSY
+[19:36:57] [Server thread/INFO] [XAT]: Syncing Config to FEXYPEPSY
+[19:36:57] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of FEXYPEPSY: {disabled=false, disconnected=true, uuid=094cf51d-de98-3637-bc2a-363370cb1e66, name=FEXYPEPSY, group=null}
+[19:36:59] [Netty Epoll Server IO #3/DEBUG] [RLTweaker]: Received version message: 0.5.12
+[19:36:59] [Netty Epoll Server IO #3/TRACE] [RLTweaker]: Adding NetworkHandler UUID
+[19:36:59] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of FEXYPEPSY (18)
+[19:36:59] [Server thread/DEBUG] [voicechat]: [voicechat] Sending initial states to FEXYPEPSY
+[19:36:59] [Server thread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with FEXYPEPSY
+[19:36:59] [Server thread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with FEXYPEPSY
+[19:36:59] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to FEXYPEPSY
+[19:37:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FEXYPEPSY lost connection: Disconnected
+[19:37:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FEXYPEPSY left the game
+[19:37:36] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of FEXYPEPSY
+[19:37:36] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client FEXYPEPSY
+[19:37:36] [Server thread/TRACE] [RLTweaker]: Removing NetworkHandler UUID
+[19:37:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:37:44] [Server thread/DEBUG] [FML]: The world 6102922a (World) may have leaked: seen 95 times.
+
+[19:37:44] [Server thread/DEBUG] [FML]: The world 4501d30c (World) may have leaked: seen 95 times.
+
+[19:37:44] [Server thread/DEBUG] [FML]: The world 34963490 (World) may have leaked: seen 95 times.
+
+[19:38:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:38:34] [Server thread/DEBUG] [FML]: The world 6102922a (World) may have leaked: seen 100 times.
+
+[19:38:34] [Server thread/DEBUG] [FML]: The world 4501d30c (World) may have leaked: seen 100 times.
+
+[19:38:34] [Server thread/DEBUG] [FML]: The world 34963490 (World) may have leaked: seen 100 times.
+
+[19:39:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:39:24] [Server thread/DEBUG] [FML]: The world 6102922a (World) may have leaked: seen 105 times.
+
+[19:39:24] [Server thread/DEBUG] [FML]: The world 4501d30c (World) may have leaked: seen 105 times.
+
+[19:39:24] [Server thread/DEBUG] [FML]: The world 34963490 (World) may have leaked: seen 105 times.
+
+[19:39:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:40:14] [Server thread/DEBUG] [FML]: The world 6102922a (World) may have leaked: seen 110 times.
+
+[19:40:14] [Server thread/DEBUG] [FML]: The world 4501d30c (World) may have leaked: seen 110 times.
+
+[19:40:14] [Server thread/DEBUG] [FML]: The world 34963490 (World) may have leaked: seen 110 times.
+
+[19:40:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save World
+[19:41:04] [Server thread/DEBUG] [FML]: The world 6102922a (World) may have leaked: seen 115 times.
+
+[19:41:04] [Server thread/DEBUG] [FML]: The world 4501d30c (World) may have leaked: seen 115 times.
+
+[19:41:04] [Server thread/DEBUG] [FML]: The world 34963490 (World) may have leaked: seen 115 times.
+

@@ -1,0 +1,3 @@
+SmallAbandonedMine,6607,6622,-2545,-2520
+RLCraft_SmallUndergroundSkeleton,6632,6640,-2480,-2472
+StoneIceBoulder,6464,6473,-2434,-2424

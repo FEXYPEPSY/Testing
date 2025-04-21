@@ -1,0 +1,10 @@
+RLCraft_Vineyard,-7082,-7062,6928,6956
+VillageTriplets,-7106,-7092,6918,6932
+StonePlantMound4,-7053,-7046,6925,6932
+VillageInn,-7052,-7025,6922,6942
+P_VillageFarmhouse,-7082,-7070,6894,6906
+VillageGuardTower,-7052,-7040,6896,6908
+RLCraft_BasicCaveSpider,-6998,-6998,7011,7011
+RLCraft_UndergroundRuin1,-7001,-6992,7005,7014
+SmallWoodenCottage2,-6994,-6986,6932,6940
+StonePlantBoulder,-7033,-7023,6884,6894

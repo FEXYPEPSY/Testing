@@ -6,3 +6,12 @@ RLCraft_DecentWitch,6335,6335,2097,2097
 RLCraft_UndergroundRuin3,6330,6338,2091,2099
 ShrineSmallFire,6395,6405,2103,2113
 P_WitchDungeon,6395,6412,2087,2121
+StonePlantMound1,6234,6240,2143,2149
+VillageWoodMill,6422,6438,2151,2164
+AbandonedWoodTower,6163,6199,2165,2195
+VillageGuardTower,6399,6411,2182,2194
+VillageForgeLarge,6438,6454,2182,2194
+StonePlantMound,6240,6245,2196,2201
+SeasonsGreenhouse,6422,6434,2194,2204
+RLCraft_SmallUndergroundSkeleton,6360,6368,2209,2217
+VillageMarketplace,6422,6436,2209,2223

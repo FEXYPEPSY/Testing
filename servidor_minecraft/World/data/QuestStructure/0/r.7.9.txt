@@ -1,0 +1,4 @@
+ShrineSmallFire,3919,3929,4700,4710
+RLCraft_SmallUndergroundSkeleton,3952,3960,4735,4743
+WoodWallRemains,3940,3968,4771,4779
+ClayWaterMound,4028,4036,4757,4764

@@ -17,15 +17,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-04-21 19:27:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-21 19:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-04-21 19:27:15 +0000"
     },
     "done": true
   },
@@ -41,15 +41,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-04-21 19:24:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-04-21 19:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-21 19:24:13 +0000"
     },
     "done": true
   },
@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2025-04-21 19:37:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-21 19:24:13 +0000"
@@ -95,11 +101,21 @@
     },
     "done": true
   },
+  "spartanweaponry:club": {
+    "criteria": {
+      "craft": "2025-04-21 19:31:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "birch_forest": "2025-04-21 19:35:20 +0000",
       "deep_ocean": "2025-04-21 19:26:49 +0000",
+      "mesa": "2025-04-21 19:33:49 +0000",
       "extreme_hills": "2025-04-21 19:24:03 +0000",
-      "river": "2025-04-21 19:23:48 +0000"
+      "river": "2025-04-21 19:23:48 +0000",
+      "jungle": "2025-04-21 19:34:33 +0000",
+      "desert": "2025-04-21 19:33:26 +0000"
     },
     "done": false
   },
@@ -115,15 +131,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2025-04-21 19:27:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-21 19:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-21 19:27:15 +0000"
     },
     "done": true
   },
@@ -133,15 +149,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-04-21 19:28:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-04-21 19:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-21 19:28:37 +0000"
     },
     "done": true
   },
@@ -199,15 +215,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-04-21 19:24:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-21 19:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-21 19:24:36 +0000"
     },
     "done": true
   },
@@ -217,15 +233,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-04-21 19:26:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-04-21 19:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-04-21 19:26:32 +0000"
     },
     "done": true
   },
