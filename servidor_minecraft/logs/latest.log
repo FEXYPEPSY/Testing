@@ -3661,3 +3661,4 @@ java.net.UnknownHostException: phone-missile.gl.at.ply.gg:4149: Name or service 
 [16:59:21] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.ChunkCache
 [16:59:21] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraft.world.ChunkCache with flags MAXS
 [17:02:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Usage: /say <message ...>
+[17:12:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] yo
