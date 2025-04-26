@@ -15,3 +15,6 @@ StonePlantMound,6240,6245,2196,2201
 SeasonsGreenhouse,6422,6434,2194,2204
 RLCraft_SmallUndergroundSkeleton,6360,6368,2209,2217
 VillageMarketplace,6422,6436,2209,2223
+P_VillageBlacksmith,6424,6457,2219,2233
+RLCraft_DecentWitch,6307,6307,2253,2253
+RLCraft_UndergroundRuin3,6305,6313,2250,2258

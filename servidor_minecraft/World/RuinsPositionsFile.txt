@@ -53,12 +53,13 @@
 3720 52 4772 3731 71 4808 SunkenShip-v2.tml
 3772 63 4679 3784 117 4691 BaloonHigh.tml
 3812 63 4761 3819 76 4767 TP_FishingShack.tml
-3820 64 4576 3827 67 4581 Melonfield.tml
 3820 64 4570 3828 74 4578 LargeStoneHouseWBasement.tml
+3820 64 4576 3827 67 4581 Melonfield.tml
 3823 63 4578 3831 69 4586 LargeStoneHouse.tml
 3856 68 4651 3869 100 4664 OreSpire.tml
 3950 64 4818 3976 72 4839 GraveyardHaunted.tml
 3963 63 4549 3970 67 4556 TinyFarmField.tml
+6093 64 2216 6104 73 2228 StoneHouse_Ruined.tml
 6135 96 2057 6142 100 2064 TinyFarmField.tml
 6142 63 2140 6146 65 2144 EmeraldOreOutcrop.tml
 6157 88 1793 6162 96 1798 PillarBase.tml
@@ -76,6 +77,7 @@
 6368 113 1927 6377 116 1936 RuinedSmallFountainDiagonal.tml
 6371 121 1767 6376 124 1774 PumpkinField.tml
 6384 63 2060 6393 78 2069 MoaiHead.tml
+6395 63 2224 6400 71 2229 PillarBase.tml
 6399 68 2143 6411 113 2155 TowerEasy.tml
 6439 60 -2784 6446 70 -2777 BridgePilings-sm2.tml
 6442 60 -2795 6453 70 -2784 BridgePilings-lg2.tml
